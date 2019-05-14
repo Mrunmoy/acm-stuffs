@@ -1,0 +1,23 @@
+[main] 10229 1000 (0) exception: trapped!
+[main] 10229 1000 (0) exception: code 0xC00000FD at 0x40113E
+[main] 10229 1000 (0) exception: ax 0xFFFAAB38 bx 0x244FF60 cx 0x0 dx 0x61006317
+[main] 10229 1000 (1) exception: si 0x0 di 0x1620A0 bp 0x453050 sp 0x453000
+[main] 10229 1000 (0) exception: exception is: STATUS_STACK_OVERFLOW
+[main] 10229 1000 (0) stack: Stack trace:
+[main] 10229 1000 (0) stack: frame 0: sp = 0x452BF0, pc = 0x6100A2C3
+[main] 10229 1000 (0) stack: frame 1: sp = 0x452C2C, pc = 0x7C9037BF
+[main] 10229 1000 (0) stack: frame 2: sp = 0x452C50, pc = 0x7C90378B
+[main] 10229 1000 (0) stack: frame 3: sp = 0x452D00, pc = 0x7C90EAFA
+[main] 10229 1000 (0) stack: frame 4: sp = 0x453050, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 5: sp = 0x4530B0, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 6: sp = 0x453110, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 7: sp = 0x453170, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 8: sp = 0x4531D0, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 9: sp = 0x453230, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 10: sp = 0x453290, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 11: sp = 0x4532F0, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 12: sp = 0x453350, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 13: sp = 0x4533B0, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 14: sp = 0x453410, pc = 0x401145
+[main] 10229 1000 (0) stack: frame 15: sp = 0x453470, pc = 0x401145
+[main] 10229 1000 (0) stack: End of stack trace (more stack frames may be present)

@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 485 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\litu\LOCALS~1\Temp\RSP2E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/485.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Documents and Settings\litu\My Documents\ACM\485 - Pascal Triangle of Death\485.c"
+]
+Creating command line "cl.exe @C:\DOCUME~1\litu\LOCALS~1\Temp\RSP2E.tmp" 
+Creating temporary file "C:\DOCUME~1\litu\LOCALS~1\Temp\RSP2F.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/485.pdb" /debug /machine:I386 /out:"Debug/485.exe" /pdbtype:sept 
+".\Debug\485.obj"
+]
+Creating command line "link.exe @C:\DOCUME~1\litu\LOCALS~1\Temp\RSP2F.tmp"
+<h3>Output Window</h3>
+Compiling...
+485.c
+C:\Documents and Settings\litu\My Documents\ACM\485 - Pascal Triangle of Death\485.c(118) : warning C4244: '=' : conversion from 'unsigned long ' to 'char ', possible loss of data
+C:\Documents and Settings\litu\My Documents\ACM\485 - Pascal Triangle of Death\485.c(123) : warning C4244: '=' : conversion from 'unsigned long ' to 'char ', possible loss of data
+Linking...
+
+
+
+<h3>Results</h3>
+485.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>

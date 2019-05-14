@@ -1,0 +1,9 @@
+The Fibonacci number for 10 is 55
+The Fibonacci number for 20 is 6765
+The Fibonacci number for 30 is 832040
+The Fibonacci number for 40 is 102334155
+The Fibonacci number for 50 is 12586269025
+The Fibonacci number for 60 is 1548008755920
+The Fibonacci number for 70 is 190392490709135
+The Fibonacci number for 80 is 23416728348467685
+Time elapsed: 0.000000

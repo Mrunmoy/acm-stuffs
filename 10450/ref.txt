@@ -1,0 +1,29 @@
+Scenario #1:
+5
+
+Scenario #2:
+2
+
+Scenario #1:
+0
+
+Scenario #2:
+3
+
+Scenario #3:
+144
+
+Scenario #4:
+89
+
+Scenario #5:
+610
+
+Scenario #6:
+32951280099
+
+Scenario #7:
+7778742049
+
+Scenario #8:
+20365011074

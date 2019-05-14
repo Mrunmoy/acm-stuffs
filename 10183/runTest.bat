@@ -1,0 +1,1 @@
+10183 < inp.txt > out.txt

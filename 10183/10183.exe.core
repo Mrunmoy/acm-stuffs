@@ -1,0 +1,18 @@
+[main] 10183 1000 (0) exception: trapped!
+[main] 10183 1000 (0) exception: code 0xC0000005 at 0x34303932
+[main] 10183 1000 (0) exception: ax 0x142 bx 0x245FF00 cx 0x40AADB dx 0x40A800
+[main] 10183 1000 (0) exception: si 0x40B096 di 0x1620A0 bp 0x245FF14 sp 0x245FEC4
+[main] 10183 1000 (0) exception: exception is: STATUS_ACCESS_VIOLATION
+[main] 10183 1000 (0) stack: Stack trace:
+[main] 10183 1000 (0) stack: frame 0: sp = 0x245FAB4, pc = 0x6100A2C3
+[main] 10183 1000 (0) stack: frame 1: sp = 0x245FAF0, pc = 0x7C9037BF
+[main] 10183 1000 (0) stack: frame 2: sp = 0x245FB14, pc = 0x7C90378B
+[main] 10183 1000 (0) stack: frame 3: sp = 0x245FBC4, pc = 0x7C90EAFA
+[main] 10183 1000 (0) stack: frame 4: sp = 0x245FF14, pc = 0x401087
+[main] 10183 1000 (0) stack: frame 5: sp = 0x245FF44, pc = 0x61004402
+[main] 10183 1000 (1) stack: frame 6: sp = 0x245FF88, pc = 0x61004420
+[main] 10183 1000 (0) stack: frame 7: sp = 0x245FF94, pc = 0x4016EE
+[main] 10183 1000 (0) stack: frame 8: sp = 0x245FFA4, pc = 0x40103A
+[main] 10183 1000 (0) stack: frame 9: sp = 0x245FFC0, pc = 0x7C816D4F
+[main] 10183 1000 (0) stack: frame 10: sp = 0x245FFF0, pc = 0x0
+[main] 10183 1000 (0) stack: End of stack trace

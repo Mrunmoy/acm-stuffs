@@ -1,0 +1,3 @@
+2
+move 1 onto 0
+quit

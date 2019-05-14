@@ -1,0 +1,13 @@
+Here's a way to derive the formula without using any sequences, just uses some elementary graph theory.
+
+The case n=0 and n=1 are special cases, but it turns out that for n=1 the formula is correct.
+
+For the cases n>1,
+Let v be the number of intersection points, we know there are n(n-1) of them since there are n(n-1)/2 pairs of circles and each pair has exactly 2 intersection points. These are the vertices of our graph. Now v=n(n-1).
+
+We can now think of the arcs of the circles bounding the regions as edges between the vertices. It is easy to see that the degree of each vertex is 4 (since exactly 2 circles intersect at each intersection point), so by the handshaking lemma, the total number of edges, e = 4v/2 = 2v = 2n(n-1).
+
+We are asked to compute the number of regions f, so by Euler's formula,
+f = e - v + 2 = n (n - 1) + 2.
+
+This is the same formula as above.
